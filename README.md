@@ -188,12 +188,4 @@ java ArrayListExample
 
 ---
 
-## Author
-
-Codex
-
-Computer Science Student focused on Java, Spring Boot, Data Structures & Algorithms, and Backend Development.
-
----
-
 This project is part of my Java learning journey and demonstrates practical usage of Java Collections and Object-Oriented Programming concepts.
